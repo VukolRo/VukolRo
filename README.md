@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **VukolRo/VukolRo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋
+- I’m currently studying at one of franchise of [École 42](https://en.wikipedia.org/wiki/42_(school)) calls ["School 21"](https://21-school.ru/) in Kazan Russia.
+
+## Here u can see my progress in School_21
+  [My_progress_school21](https://badge42.herokuapp.com/api/stats/shavok)
+  
+  
+- 📫 How to reach me: [e-mail](mailto:vukolov.rodion@mail.ru)
+                      [telegram](https://t.me/moio_imya)
