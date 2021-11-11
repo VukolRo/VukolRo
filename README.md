@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - I’m currently studying at one of franchise of [École 42](https://en.wikipedia.org/wiki/42_(school)) calls ["School 21"](https://21-school.ru/) in Kazan Russia.
 
 ## Here u can see my progress in School_21
-  [My_progress_school21](https://badge42.herokuapp.com/api/stats/shavok)
+  ![My_progress_school21](https://badge42.herokuapp.com/api/stats/shavok)
   
   
 - 📫 How to reach me: [e-mail](mailto:vukolov.rodion@mail.ru)
