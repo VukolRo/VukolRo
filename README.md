@@ -20,5 +20,6 @@ Here are some ideas to get you started:
   ![My_progress_school21](https://badge42.herokuapp.com/api/stats/shavok)
   
   
-- 📫 How to reach me: [e-mail](mailto:vukolov.rodion@mail.ru)
-                      [telegram](https://t.me/moio_imya)
+- 📫 How to reach me:    
+  [e-mail](mailto:vukolov.rodion@mail.ru)      
+  [telegram](https://t.me/moio_imya)
