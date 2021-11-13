@@ -21,5 +21,4 @@ Here are some ideas to get you started:
   
   
 - 📫 How to reach me:    
-  [e-mail](mailto:vukolov.rodion@mail.ru)      
-  [telegram](https://t.me/moio_imya)
+  [e-mail](mailto:vukolov.rodion@mail.ru) [telegram](https://t.me/moio_imya)
