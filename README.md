@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 ### Hi there 👋
 - Currently study in one of franchise of [École 42](https://en.wikipedia.org/wiki/42_(school)) calls ["School 21"](https://21-school.ru/) in Kazan Russia.
 
-## Here you can see my progress at School_21
-  ![My_progress_school21](https://badge42.herokuapp.com/api/stats/shavok)
   
   
 - 📫 How to reach me:    
