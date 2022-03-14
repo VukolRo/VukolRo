@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
+### ☮️✌️ Peace ✌️☮️!
 - Unfortunately, I was forced to discontinue my studies in one of franchise of [École 42](https://en.wikipedia.org/wiki/42_(school)) calls ["School 21"](https://21-school.ru/) in Kazan Russia.
 - Currently studying in ["RS School"](https://rs.school/).
   
- ☮️✌️ Peace ✌️☮️!
+ 
   
 - 📫 How to reach me:    
   [e-mail](mailto:vukolov.rodion@mail.ru) [telegram](https://t.me/moio_imya)
