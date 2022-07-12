@@ -13,6 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I'm currently learning Flutter and Dart.
+- 🎯 On my way to become Mobile application developer.
+
+- 🎓 Had experience with C programming language during schooling at "21 School by sber" Kazan. It's a franchise of famous "Ecole 42" Paris. Find out about it if you haven't heard that name yet. Not only if you're seeking for developers but especially if you're dreaming to become one of them. Spoiler: it's FREE but HQ!
+
+- Tried to become front-end developer, but quickly recognized that it's not fit me at all. (quickly but tried it twice)
+Switched to Android development, and than to mobile application developer with Flutter, I believe this part of IT fit me more than others, but we can't realize until try, so I'm trying.
+
+I'm a young student, 33 years old. A lot of regrets that I haven't looked in IT 10-15 years ago, but we all need different experience to become the best version of us.
+
+So, This is the way! 
+
 ### ☮️✌️ Peace ✌️☮️!
   
   
