@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-####Howdy!
+#### Howdy!
 
 - 🔭 I'm currently learning Flutter and Dart.
 - 🎯 On my way to become Mobile application developer.
@@ -24,7 +24,7 @@ Switched to Android development, and than to mobile application developer with F
 
 I'm a young student, 33 years old. A lot of regrets that I haven't looked in IT 10-15 years ago, but we all need different experience to become the best version of us.
 
-####So, This is the way! 
+#### So, This is the way! 
 
 ### ☮️✌️ Peace ✌️☮️!
   
