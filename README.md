@@ -6,9 +6,9 @@
 #### FLutter projects done:
 
 - ["Ticker of criptocurrency"](https://github.com/VukolRo/cripto_ticker_flutter) 
-        Flutter/Dart, MaterialApp, OOP, API.
-- ["Weather aap"](https://github.com/VukolRo/weather_app_flutter) Flutter/Dart, MaterialApp, OOP, API.
-- ["BMI calculator"](https://github.com/VukolRo/bmi-calcullator-flutter) Flutter/Dart, MaterialApp, OOP.
+        Flutter/Dart, Material, OOP, API.
+- ["Weather aap"](https://github.com/VukolRo/weather_app_flutter) Flutter/Dart, Material, OOP, API.
+- ["BMI calculator"](https://github.com/VukolRo/bmi-calcullator-flutter) Flutter/Dart, Material, OOP.
 - Basic flutter apps: ["Destini challenge"](https://github.com/VukolRo/destini-challenge) ["Quizzler app"](https://github.com/VukolRo/quizzler_app_flutter) ["Xylophone"](https://github.com/VukolRo/xylophone_flutter)
   ["Magic 8 ball"](https://github.com/VukolRo/magic_8_ball_flutter) ["Dicee"](https://github.com/VukolRo/dicee-flutter) ["My card"](https://github.com/VukolRo/mi_card_flutter)
 
