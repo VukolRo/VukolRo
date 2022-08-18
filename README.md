@@ -32,7 +32,7 @@
 
 
 ### 📈 GitHub Activity Graph:
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=a-parfenov&hide_border=true&theme=redical)
+![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=vukolro&hide_border=true&theme=redical)
 
 
 <a><p align="center">
