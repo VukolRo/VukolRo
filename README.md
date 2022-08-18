@@ -1,33 +1,28 @@
-<!--
-**VukolRo/VukolRo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 #### Howdy!
 
-- 🔭 I'm currently learning Flutter and Dart.
-- 🎯 On my way to become Mobile application developer.
+- 🔭 Currently learning Flutter and Dart.
 
-- 🎓 Had experience with C programming language during schooling at "21 School by sber" Kazan. It's a franchise of famous "Ecole 42" Paris. Find out about it if you haven't heard that name yet. Not only if you're seeking for developers but especially if you're dreaming to become one of them. Spoiler: it's FREE but HQ!
+#### FLutter projects done:
+- [Tiker of criptocurrency](https://github.com/VukolRo/cripto_ticker_flutter) Flutter/Dart, MaterialApp, OOP, API.
+- [Weather aap](https://github.com/VukolRo/weather_app_flutter) Flutter/Dart, MaterialApp, OOP, API.
+- [BMI calculator](https://github.com/VukolRo/bmi-calcullator-flutter) Flutter/Dart, MaterialApp, OOP.
+- Basic flutter apps: [Destini challenge](https://github.com/VukolRo/destini-challenge) [Quizzler app](https://github.com/VukolRo/quizzler_app_flutter) [Xylophone](https://github.com/VukolRo/xylophone_flutter)
+  [Magic 8 ball](https://github.com/VukolRo/magic_8_ball_flutter) [Dicee](https://github.com/VukolRo/dicee-flutter) [My card](https://github.com/VukolRo/mi_card_flutter)
 
-- Tried to become front-end developer, but quickly recognized that it's not fit me at all. (quickly but tried it twice)
-Switched to Android development, and than to mobile application developer with Flutter, I believe this part of IT fit me more than others, but we can't realize until try, so I'm trying.
+#### C programming language projects done:
+- [Push_swap](https://github.com/VukolRo/push_swap)
+- [Get_next_line](https://github.com/VukolRo/get_next_line)
+- [Printf](https://github.com/VukolRo/printf)
+- [Libft](https://github.com/VukolRo/libft)
+- [School 21 Piscine](https://github.com/VukolRo/school21piscine)
 
-I'm a young student, 33 years old. A lot of regrets that I haven't looked in IT 10-15 years ago, but we all need different experience to become the best version of us.
+#### Linux/Unix projects done:
+- [Born 2 be Root](https://github.com/VukolRo/born2beRoot)
 
-#### So, This is the way! 
 
 ### ☮️✌️ Peace ✌️☮️!
   
   
 - 📫 How to reach me:    
-  [e-mail](mailto:vukolov.rodion@mail.ru) [telegram](https://t.me/moio_imya)
+  [e-mail](mailto:vukolov.rodion@mail.ru) [telegram](https://t.me/moio_imya) [linked-in](http://www.linkedin.com/in/rodion-vukolov)
