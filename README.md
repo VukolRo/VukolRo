@@ -5,8 +5,9 @@
 
 #### FLutter projects done:
 
+- ["Flash chat"](https://github.com/VukolRo/flash_chat) Flutter/Dart, Material, OOP, Firebase, Streams.
 - ["Ticker of criptocurrency"](https://github.com/VukolRo/cripto_ticker_flutter) 
-        Flutter/Dart, Material, OOP, API.
+        Flutter/Dart, Material, OOP, API, Future, async/await.
 - ["Weather aap"](https://github.com/VukolRo/weather_app_flutter) Flutter/Dart, Material, OOP, API.
 - ["BMI calculator"](https://github.com/VukolRo/bmi-calcullator-flutter) Flutter/Dart, Material, OOP.
 - Basic flutter apps: ["Destini challenge"](https://github.com/VukolRo/destini-challenge) ["Quizzler app"](https://github.com/VukolRo/quizzler_app_flutter) ["Xylophone"](https://github.com/VukolRo/xylophone_flutter)
