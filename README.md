@@ -6,7 +6,7 @@
 #### FLutter projects done:
 
 - ["Flash chat"](https://github.com/VukolRo/flash_chat) Flutter/Dart, Material, OOP, Firebase, Streams.
-- ["Ticker of criptocurrency"](https://github.com/VukolRo/cripto_ticker_flutter) 
+- ["Ticker of cryptocurrency"](https://github.com/VukolRo/cripto_ticker_flutter) 
         Flutter/Dart, Material, OOP, API, Future, async/await.
 - ["Weather aap"](https://github.com/VukolRo/weather_app_flutter) Flutter/Dart, Material, OOP, API.
 - ["BMI calculator"](https://github.com/VukolRo/bmi-calcullator-flutter) Flutter/Dart, Material, OOP.
