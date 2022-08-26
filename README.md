@@ -14,15 +14,15 @@
 
 #### C programming language projects done:
 
-- ["Push_swap"](https://github.com/VukolRo/push_swap)
-- ["Get_next_line"](https://github.com/VukolRo/get_next_line)
-- ["Printf"](https://github.com/VukolRo/printf)
-- ["Libft"](https://github.com/VukolRo/libft)
-- ["School 21 Piscine"](https://github.com/VukolRo/school21piscine)
+- ["Push_swap"](https://github.com/VukolRo/push_swap) -- Sorting algorithm project where we must sort a given list(as a Stack A) of random numbers with a limited set of instructions, using the lowest possible number of actions and using Stack abstract data type.
+- ["Get_next_line"](https://github.com/VukolRo/get_next_line) -- A function that returns a line read from a file descriptor.
+- ["Printf"](https://github.com/VukolRo/printf) -- Recreation of the famous C library **printf** function.
+- ["Libft"](https://github.com/VukolRo/libft) -- Recreation of a library with standard **libc** functions.
+- ["School 21 Piscine"](https://github.com/VukolRo/school21piscine) -- 26 day entrance test at ["School 42"](https://42.fr/en/homepage/).
 
 #### Linux/Unix projects done:
 
-- ["Born 2 be Root"](https://github.com/VukolRo/born2beRoot)
+- ["Born 2 be Root"](https://github.com/VukolRo/born2beRoot) -- Creation a server using VirtualBox. OS - Debian.
 
 
 ### ☮️✌️ Peace ✌️☮️!
