@@ -4,12 +4,11 @@
 - 🔭 Currently learning Flutter and Dart.
 
 #### FLutter projects done:
-- ["Todoey"](https://github.com/VukolRo/todoye) Simple TO-DO list App created with Flutter.
-- ["Flash chat"](https://github.com/VukolRo/flash_chat) Flutter/Dart, Material, OOP, Firebase, Streams, ListView, simple Animation.
-- ["Ticker of cryptocurrency"](https://github.com/VukolRo/cripto_ticker_flutter) 
-        Flutter/Dart, Material, OOP, API, Future, async/await.
-- ["Weather app"](https://github.com/VukolRo/weather_app_flutter) Flutter/Dart, Material, OOP, API, Future, async/await.
-- ["BMI calculator"](https://github.com/VukolRo/bmi-calcullator-flutter) Flutter/Dart, Material, OOP.
+- ["Todoey"](https://github.com/VukolRo/todoye) -- Simple TO-DO list App created with Flutter.
+- ["Flash chat"](https://github.com/VukolRo/flash_chat) -- Chat App created with Flutter. Was used Firebase, Streams, ListView, simple Animation.
+- ["Ticker of cryptocurrency"](https://github.com/VukolRo/cripto_ticker_flutter) -- Cryptocurrency ticker App created with Flutter. Was used  API, Future, async/await.
+- ["Weather app"](https://github.com/VukolRo/weather_app_flutter) -- Weather App created with Flutter. Was used API, Future, async/await.
+- ["BMI calculator"](https://github.com/VukolRo/bmi-calcullator-flutter) -- BMI calculator App created with Flutter. Was used GestureDetector, Slider, Routes and Navigation Widets.
 - Basic flutter apps: ["Destini challenge"](https://github.com/VukolRo/destini-challenge) ["Quizzler app"](https://github.com/VukolRo/quizzler_app_flutter) ["Xylophone"](https://github.com/VukolRo/xylophone_flutter)
   ["Magic 8 ball"](https://github.com/VukolRo/magic_8_ball_flutter) ["Dicee"](https://github.com/VukolRo/dicee-flutter) ["My card"](https://github.com/VukolRo/mi_card_flutter)
 
