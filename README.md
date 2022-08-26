@@ -4,7 +4,7 @@
 - 🔭 Currently learning Flutter and Dart.
 
 #### FLutter projects done:
-
+- ["Todoey"](https://github.com/VukolRo/todoye) Flutter/Dart, Material, OOP, Provider.
 - ["Flash chat"](https://github.com/VukolRo/flash_chat) Flutter/Dart, Material, OOP, Firebase, Streams, ListView, simple Animation.
 - ["Ticker of cryptocurrency"](https://github.com/VukolRo/cripto_ticker_flutter) 
         Flutter/Dart, Material, OOP, API, Future, async/await.
