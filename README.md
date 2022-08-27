@@ -1,8 +1,8 @@
 
 #### Howdy!
 
-- Flutter developer.
-- Currently working on ["Eufaloportugues"](https://github.com/VukolRo/eufaloportugues).
+I'm a Flutter developer.
+Currently working on ["Eufaloportugues"](https://github.com/VukolRo/eufaloportugues).
 
 #### FLutter projects done:
 - ["Todoey"](https://github.com/VukolRo/todoye) -- Simple TO-DO list App created with Flutter.
